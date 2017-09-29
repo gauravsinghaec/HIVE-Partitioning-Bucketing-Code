@@ -1,0 +1,6 @@
+1001	John	Google
+1001	John	Facebook
+1002	Eric	Instagram
+1002	Eric	Google
+1003	Annie	Facebook
+1004	Sara	Instagram
